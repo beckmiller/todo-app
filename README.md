@@ -1,2 +1,2 @@
 # Todo app
-To do app based on Flask
+I did this little app, when I was first time used flask.
